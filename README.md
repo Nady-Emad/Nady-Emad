@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 👨‍🎓 Student 📚 in 🏫 SUT 🎓<br>My specialty 🔍 is 👨‍💻 Network 🌐<br>& Cyber 🛡️ Security 🔐
+I am Student in SUT<br>My specialty is Network<br>& Cyber Security
 
 
 ## 🌐 Socials:
