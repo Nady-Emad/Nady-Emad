@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Student in SUT<br>My specialty is Network<br>& Cyber Security
-
+I am a Networks and Cyber Security student at Elsewedy University of Technology with a strong passion for cybersecurity, secure web development, and backend systems. I build practical projects using Laravel, PHP, Python, and JavaScript, and I continuously develop my skills in network security, digital forensics, and security-focused problem solving.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nady.emad.75/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nady.emad.nady/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadyemad/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NadyEmad93001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadyemd55@gmail.com) 
